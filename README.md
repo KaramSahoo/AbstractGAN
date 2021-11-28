@@ -19,7 +19,7 @@ GANs are a clever way of training a generative model by framing the problem as a
 
 Abstract art is art that does not attempt to represent an accurate depiction of a visual reality but instead use shapes, colours, forms and gestural marks to achieve its effect. Abstract art uses visual language of shape, form, color and line to create a composition which may exist with a degree of independence from visual references in the world. Often there is no predetermined rules which exist in the more stricter genres of art such as perspective or color schemes. Using a GAN to generate new art sounds like a good plan because the innate randomness in colors and structres in the generated image is preserved due to the very nature of GAN. Also if one is looking for ideas and wants a totally out of the box ideas then GANs can help in switching that creative switch on.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icanvas.com%2Fblog%2Fbenefits-of-art-challenge-yourself-with-abstract%2F&psig=AOvVaw3-peWxtpWRTQlGqbeyV0Is&ust=1638168710576000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD4kJS8uvQCFQAAAAAdAAAAABAD" width="600" height="400">
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/abstract-art.png" width="600" height="400">
 
 ## Demo
 
