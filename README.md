@@ -23,7 +23,7 @@ Insert gif or link to demo
 
 ## Dataset
 
-The dataset is available in Kaggle. Click [here](https://www.kaggle.com/bryanb/abstract-art-gallery) to get the dataset. The images are scrapped from the web hence require additinal resizing ad reshaping before feeding to the GAN network.
+The dataset is available in Kaggle. Click [here](https://www.kaggle.com/bryanb/abstract-art-gallery) to get the dataset. The images are scrapped from the web hence require additinal resizing and reshaping before feeding to the GAN network.
 
 ## Methodology
 ## Results
