@@ -29,8 +29,8 @@ Insert gif or link to demo
 The dataset is available in Kaggle. Click [here](https://www.kaggle.com/bryanb/abstract-art-gallery) to get the dataset. The images are scrapped from the web hence require additinal resizing and reshaping before feeding to the GAN network.
 
 <p float="left">
-<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/Abstract_image_42.jpg" width="300" height="400">
-<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/Abstract_image_74.jpg" width="300" height="400">
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/Abstract_image_42.jpg" width="150" height="200">
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/Abstract_image_74.jpg" width="150" height="200">
 </p>
 
 ## Methodology
