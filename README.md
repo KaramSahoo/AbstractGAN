@@ -23,8 +23,10 @@ Abstract art is art that does not attempt to represent an accurate depiction of 
 
 ## Demo
 
-Insert gif or link to demo
-
+<p float="left">
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/initial.png" width="300" height="300">
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/final.png" width="300" height="300">
+</p>
 
 ## Dataset
 
