@@ -22,11 +22,10 @@ Abstract art is art that does not attempt to represent an accurate depiction of 
 <img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/abstract-art.png" width="600" height="400">
 
 ## Demo
-
-<p float="left">
-<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/initial.png" width="300" height="300">
-<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/final.png" width="300" height="300">
-</p>
+This is what we started with:
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/initial.png" width="400" height="400">
+This is what we end up after 170 epochs!
+<img src="https://github.com/KaramSahoo/AbstractGAN/blob/main/final.png" width="400" height="400">
 
 ## Dataset
 
